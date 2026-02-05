@@ -3,3 +3,33 @@
 ## 📌 Project Description
 BurgerShop Management System is a Java-based console application developed using NetBeans IDE.  
 This project is designed to demonstrate Java programming fundamentals and Object-Oriented Programming (OOP) concepts through a simple burger shop scenario.
+
+# 🍔 Burger Shop Management System (Java)
+
+A simple **Burger Shop Management System** developed using **Java**.  
+This project is designed to manage burger orders, calculate totals, and handle customer billing.
+
+---
+
+## 📌 Features
+
+✅ Add Burger Orders  
+✅ View Order Details  
+✅ Calculate Total Price  
+✅ Generate Bill  
+✅ Simple Menu System  
+✅ User Friendly Console Interface  
+
+---
+
+## 🛠️ Technologies Used
+
+- Java (OOP Concepts)
+- Console Based Application
+- File Handling (if included)
+- Array / ArrayList (depending on your implementation)
+
+---
+
+## 📂 Project Structure
+
